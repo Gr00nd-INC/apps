@@ -20,7 +20,7 @@
         "express": "^4.17.3",
         "express-session": "^1.17.2",
         "http-status": "^1.5.1",
-        "mocha": "^10.2.0",
+        "mocha": "^10.6.0",
         "serverless-http": "^3.1.0"
     },
     "devDependencies": {
