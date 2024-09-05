@@ -35,8 +35,8 @@
     "@contentful/f36-components": "^4.0.42",
     "@contentful/f36-tokens": "^4.0.0",
     "array-move": "^3.0.0",
-    "contentful-management": "^10.0.0",
-    "emotion": "^10.0.0",
+    "contentful-management": "^11.31.7",
+    "emotion": "^11.0.0",
     "react-sortable-hoc": "^2.0.0"
   },
   "peerDependencies": {
