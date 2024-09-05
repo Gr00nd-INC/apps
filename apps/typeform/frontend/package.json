@@ -23,11 +23,11 @@
     "core-js": "^3.2.1",
     "emotion": "^10.0.27",
     "jest-environment-jsdom": "^29.0.1",
-    "jsdom": "^20.0.0",
+    "jsdom": "^24.1.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.0",
     "whatwg-fetch": "^3.0.0"
   },
   "scripts": {
