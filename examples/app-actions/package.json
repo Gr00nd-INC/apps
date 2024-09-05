@@ -15,7 +15,7 @@
     "@contentful/node-apps-toolkit": "2.0.2",
     "@contentful/react-apps-toolkit": "1.2.7",
     "@emotion/css": "11.9.0",
-    "contentful-management": "10.4.0",
+    "contentful-management": "11.27.1",
     "emotion": "11.0.0",
     "got": "12.1.0",
     "http-status-codes": "2.2.0",
