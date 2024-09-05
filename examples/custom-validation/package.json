@@ -8,11 +8,11 @@
     "upload-ci": "contentful-app-scripts upload --ci --bundle-dir ./dist  --organization-id $CONTENTFUL_ORG_ID --definition-id $CONTENTFUL_APP_DEF_ID --token $CONTENTFUL_ACCESS_TOKEN"
   },
   "dependencies": {
-    "@contentful/app-scripts": "1.10.2",
+    "@contentful/app-scripts": "1.13.1",
     "@contentful/app-sdk": "4.22.0",
     "@contentful/f36-components": "4.45.0",
     "@contentful/react-apps-toolkit": "1.2.16",
-    "contentful-management": "10.38.3",
+    "contentful-management": "11.27.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "regenerator-runtime": "0.13.11"
