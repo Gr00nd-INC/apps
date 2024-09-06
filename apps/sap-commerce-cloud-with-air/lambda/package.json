@@ -16,9 +16,9 @@
   "author": "Contentful",
   "license": "ISC",
   "dependencies": {
-    "@contentful/node-apps-toolkit": "^2.0.4",
+    "@contentful/node-apps-toolkit": "^2.8.1",
     "@sentry/node": "^7.38.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.8",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "express-rate-limit": "^6.7.0",
