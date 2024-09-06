@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@contentful/node-apps-toolkit": "^2.6.0",
-    "contentful-management": "^11.3.0"
+    "contentful-management": "^11.31.7"
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.0",
