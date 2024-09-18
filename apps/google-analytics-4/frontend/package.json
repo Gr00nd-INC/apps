@@ -7,7 +7,7 @@
     "@contentful/f36-components": "4.40.6",
     "@contentful/f36-tokens": "4.0.2",
     "@contentful/react-apps-toolkit": "1.2.16",
-    "@segment/analytics-next": "^1.51.3",
+    "@segment/analytics-next": "^1.73.0",
     "@sentry/react": "^7.44.2",
     "@testing-library/user-event": "14.4.3",
     "@types/chart.js": "^2.9.37",
