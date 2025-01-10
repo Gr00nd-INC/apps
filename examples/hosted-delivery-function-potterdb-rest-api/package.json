@@ -11,7 +11,7 @@
     "contentful-management": "10.46.0",
     "emotion": "10.0.27",
     "graphql": "16.8.1",
-    "graphql-yoga": "4.0.5",
+    "graphql-yoga": "5.10.9",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"
