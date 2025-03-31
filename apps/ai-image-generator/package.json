@@ -17,8 +17,8 @@
     "install-linux-sharp": "SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm ci --arch=x64 --platform=linux --libc=glibc sharp"
   },
   "dependencies": {
-    "@contentful/app-scripts": "1.10.2",
+    "@contentful/app-scripts": "2.3.1",
     "esbuild": "^0.19.2",
-    "sharp": "^0.32.5"
+    "sharp": "^0.33.0"
   }
 }
