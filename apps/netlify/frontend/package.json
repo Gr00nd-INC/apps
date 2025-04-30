@@ -19,10 +19,10 @@
     "lodash.get": "4.4.2",
     "lodash.uniqby": "4.7.0",
     "prop-types": "15.8.1",
-    "pubnub": "7.4.1",
+    "pubnub": "8.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "setimmediate": "^1.0.5",
     "uuid": "8.3.2",
     "whatwg-fetch": "3.6.19"
