@@ -9,7 +9,7 @@
     "@contentful/integration-component-library": "^1.1.41",
     "@contentful/react-apps-toolkit": "1.2.16",
     "contentful-management": "10.35.6",
-    "emotion": "10.0.27",
+    "emotion": "11.0.0",
     "lodash": "^4.17.21",
     "react": "17.0.2",
     "react-dom": "17.0.2",
